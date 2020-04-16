@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1577512816 source:c:\users\eman\desktop\assighment3 eman salah 20180063\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<stdlib.h>
+	"fcivector.h"
+	"students.h"
+	"courses.h"
+
+1577513564 c:\users\eman\desktop\assighment3 eman salah 20180063\fcivector.h
+	<iostream>
+
+1577513322 c:\users\eman\desktop\assighment3 eman salah 20180063\students.h
+	"fcivector.h"
+	"courses.h"
+	<cstring>
+	<string>
+
+1577513951 c:\users\eman\desktop\assighment3 eman salah 20180063\courses.h
+	<string>
+	<cstring>
+	<iostream>
+
