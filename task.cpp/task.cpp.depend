@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556467405 source:c:\users\alaa\desktop\fci (alaa)\ghgjhk\main.cpp
+	<iostream>
+	<cctype>
+	<cstring>
+
